@@ -1,0 +1,52 @@
+{
+    "main1": {
+        "name": "Pokemon Go",
+        "des": "The undeniable champion of the mobile marketplace, few games have taken the world by storm like Pokémon Go did when it released in 2016. It was only a matter of time until Nintendo brought these little pocket monsters into actual pockets by way of smartphones after all.Though somewhat barebones when it released, Pokémon Go exploded in popularity almost overnight. People walked all over their hometowns in search of creatures to catch and nostalgia to experience. The subsequent addition of more Pokémon (along with new battle and raid systems) created what is undeniably the most successful mobile game of all time.",
+        "url": ""
+    },
+    "main2": {
+        "name": "Subway Surfers",
+        "des": " Yet another entry in the endless runner category, Subway Surfers proves that old adage true: if it ain't broke, don't fix it. Combine the gameplay of Temple Run with a little bit of the attitude found in something like Jet Set Radio and it's simply a recipe for a smash hit.Subway Surfers doesn't break the mold in any meaningful way, but it takes the well-worn formula and executes it with skill and finesse. It even spawned an animated series on Youtube!",
+        "url": ""
+    },
+    "main3": {
+        "name": "Garena Free Fire",
+        "des": "With the battle royale phenomenon still going incredibly strong and new titles popping up every day, it only makes sense that one of the most downloaded games ever on mobile devices is a name many people may not have heard of. Garena Free Fire is a 50 player free-for-all much in the vein of PUBG or Fortnite.Yet even though it isn't necessarily the most original concept, Free Fire is a surefire success, topping download charts everywhere and raking in billions of dollars.",
+        "url": ""
+    },
+    "main4": {
+        "name": "Despicable Me: Minion Rush",
+        "des": " In the beginning, there was only darkness and from that darkness, a voice proclaimed thusly: 'BE DOO BE DOO BE DOO'. Okay, so maybe Minions weren't the origin of the universe, but the impact that they have had on pop culture cannot be overstated.Having started as little more than silly sidekicks in the Despicable Me franchise, these denim-clad yellow beans quickly became some of the most identifiable characters on the planet. Despicable Me: Minion Rush may be little more than a Temple Run clone with brand recognition, but the popularity of these critters has launched the game into a massive success.",
+        "url": ""
+    },
+    "main5": {
+        "name": "Jetpack Joyride",
+        "des": " Ever want to enjoy the thrills of an endless runner but with a horizontal twist? Jetpack Joyride is exactly that. Players pilot Barry Steakfries through a variety of locales as he tries to escape with the titular jetpack from a top-secret lab. Like most successful mobile titles, Jetpack Joyride is accessible while still offering a challenge for those that want it.The game offers additional tasks and missions to increase the score. Combine that with a wacky cartoon aesthetic and a steady stream of updates and it's easy to see why Jetpack Joyride hit in a big way.",
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/90/Jetpack_Joyride_iOS.png"
+    },
+    "main6": {
+        "name": "PUBG (PlayerUnknown's BattleGrounds)",
+        "des": " The original version of PUBG rose to prominence at the beginning of the current battle royale craze. Starting its life on PC before migrating to consoles and mobile phones, this competitive online shooter gives players a simple goal: be the last one standing at the end of the match.Though games like Fortnite have since overtaken PUBG in terms of pure Battle Royale popularity, none can deny the influence this game had on the many battle royale titles that came after.",
+        "url": ""
+    },
+    "main7": {
+        "name": "Fruit Ninja",
+        "des": " Perhaps one of the most simple games on this list, Fruit Ninja sees players doing nothing more than swiping their fingers erratically across the screen. The task? Cut as many fruits as possible while avoiding explosives that can end the round.The ease of play combined with the addictive nature of racking up points was a proven recipe for success as Fruit Ninja is now one of the most played mobile titles of all time. With motion-controlled and virtual reality versions of the game, there are multiple ways for gamers to enjoy the fruit-cutting action of Fruit Ninja.",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/FruitNinja_screenshot.png/220px-FruitNinja_screenshot.png"
+    },
+    "main8": {
+        "name": "Clash Of Clans",
+        "des": " For those who want a game with a bit more depth, Clash of Clans provides engrossing strategy mechanics wrapped up in an adorable isometric art style. Adding to this winning formula is the fact that the game is playable online. Teaming up with friends to fight battles and earn gold is thrilling; the fact that the game is free is icing on the already delicious cake.Sure, there are micro-transactions galore and the impulse to spend just a few dollars for perks is difficult to ignore. But the engrossing gameplay keeps devoted players coming back for more.",
+        "url": ""
+    },
+    "main9": {
+        "name": "Temple Run",
+        "des": " Endless runners have existed for a long time. Given the general simplicity of their design, it makes sense that the genre would flourish in the mobile marketplace. In Temple Run, players are tasked with guiding an adventurer seeking a golden idol through a dangerous temple.Easy to learn but difficult to master, Temple Run has spawned several spin-offs, a book series, and even a potential movie tie-in. For those with an itch that can only be scratched by an Indiana Jones-esque auto-runner, the Temple Run games are here to become a new obsession.",
+        "url": "https://upload.wikimedia.org/wikipedia/en/c/c4/TempleRun.jpg"
+    },
+    "main10": {
+        "name": "Candy Crush Saga",
+        "des": " Nothing has grabbed hold of middle-aged moms, teens, and anyone looking to kill time quite like match-three puzzle games. Games like Bejeweled took Facebook by storm, but none came close to the staying power of Candy Crush. An evolution of the Tetris formula, players are tasked with joining like-colored candies in a grid to gain points.With Candy Crush Saga, the casual puzzle phenomenon was one of the first major successes in the free-to-play genre. Though the gameplay is fairly simple and repetitive, the addictiveness at the core of the design still holds strong. Perfect for quick gameplay sessions, the convenience of Candy Crush Saga is second to none.",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Candy_Crush_logo.png/220px-Candy_Crush_logo.png"
+    }
+}
