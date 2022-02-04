@@ -1,68 +1,68 @@
 {
-    "name1":{
+    "main1":{
         "name":"Squid Game",
         "des":"The series that sparked this conversation once again, and for good reason, Squid Game currently stands alone. While these viewership records normally cover the first four weeks, none of these series have shot up like Squid Game has. The overwhelming positive acclaim spawned viral challenges and memes to spring up on TikTok and bleed into the rest of the internet. The series that made white slip-on Vans scarce may come with warnings for watching the series while eating (or basically doing anything), but it has the world buzzing, making it the first Korean to top Netflix’s global most-viewed chart, with 111 million viewers tuning in over the first 17 days the series was available (with that number jumping to 142 million 11 days later).",
         "url":"",
         "link":"https://en.wikipedia.org/wiki/Squid_Game"
     },
 
-    "name2":{
+    "main2":{
         "name":"Bridgerton",
         "des":"Hollywood usually saves its most epic feature films for holiday season releases, and with COVID-19 still keeping many home, it made sense that Netflix would release this period drama on the masses. We're not sure anyone expected the series that made Regé-Jean Page and Phoebe Dynevor some of the freshest faces in Hollywood. Also, it's not often that period pieces get this much love; it's proof that going outside of the box can net a win, as long as the story is worth the time viewers are investing. Things got so bad that when it was revealed that Page would not be returning for Season 2, viewers were outraged. There's not much you can do when you follow a story that's already laid out, but you try telling the timeline that.",
         "url":"https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/npnpnmyfwyr1wovzdoeb/bridgerton-netflix?fimg-client",
         "link":"https://en.wikipedia.org/wiki/Bridgerton"
     },
 
-    "name3":{
+    "main3":{
         "name":"Money Heist",
         "des":"Money Heist is one of those IYKYK series. Praised worldwide for its ability to mix a complex plot with rich storytelling and peak dramatics, Money Heist is one of the best examples of proper word of mouth. Similar to international series like Squid Game, many Americans will check out anything if enough people are hyping it. Stranger Things started out one way; over the course of a few days, you noticed a few different people have mentioned this ill show that you definitely slept on. Lucky for you, if you're new, there is more than enough Money Heist to go around. ",
         "url":"",
         "link":"https://en.wikipedia.org/wiki/Money_Heist"
     },
 
-    "name4":{
+    "main4":{
         "name":"Stranger Things",
         "des":"Honestly, you could chalk Stranger Things 3 specifically getting onto this list up to actual hype. Season 2 of Stranger Things debuted in October of 2017; that was a long time in-between seasons, and with the series already being one of the flag bearing shows for quality over at Netflix, it had to perform. It did well as a season, but those viewership numbers? Those were rabid fans, trust and believe; we'll find out how ready they are when Stranger Things returns for its fourth season in 2022",
         "url":"",
         "link":"https://en.wikipedia.org/wiki/Stranger_Things"
     },
 
-    "name5":{
+    "main5":{
         "name":"The Witcher",
         "des":"This show, based on a book series that also spawned a popular video game franchise, had a lot riding for it. Aforementioned built-in fanbase aside, the series also stole away Superman, with Henry Cavill being the “witcher” in this series. The Witcher may have also rode the Game of Thrones remorse wave, giving viewers something that felt kind of like the hit HBO series, or at least felt similar enough to scratch that itch. With Season 2 of The Witcher hitting Netflix on Dec. 17 and Season 3 already in the plans, we could see a Witcher renaissance, at least on the viewership side.",
         "url":"",
         "link":"https://en.wikipedia.org/wiki/The_Witcher"
     },
 
-    "name6":{
+    "main6":{
         "name":"13 Reasons Why",
         "des":"The widespread criticism the show's first season received did not stop people from tuning in for Season 2. In fact, Season 2 was watched 20 million more hours than Season 1, bringing the number up to 496 million. Netflix did its part in cautioning its viewers about the show's graphic content by adding a warning trailer about the controversial topics that they cover before the first episode. In the video, the show's cast members warn viewers saying that the show “may not be right” for people struggling with issues such as sexual assault, suicide, or substance abuse, and to consider watching with an adult or skipping altogether. The second season of the hit show continued to explore the aftermath of Hannah's death, and the impact it had on her classmates as they all deal with their own troubles and traumas. The show continued for two more seasons after that.",
         "url":"",
         "link":"https://en.wikipedia.org/wiki/13_Reasons_Why"
     },
 
-    "name7":{
+    "main7":{
         "name":"Maid",
         "des":"The moment one of your parents calls you to tell you about a new show that dropped on Netflix, that's when you know it's a hit. Netflix's limited series Maid found a wide range of viewers who tuned in to watch as single mother Alex (Margaret Qualley) resorts to cleaning houses to make ends meet as she escapes an abusive relationship and overcomes homelessness to create a better life for her daughter, Maddy, than the one she had as a child. With each episode, the story, based on the Maid: Hard Work, Low Pay, and a Mother's Will to Survive book by Stephanie Land, shows how difficult it is for a woman to escape an abusive relationship, especially when she doesn't have the financial or emotional support she needs to do so. ",
         "url":"",
         "link":"https://en.wikipedia.org/wiki/Maid_(miniseries)"
     },
 
-    "name8":{
+    "main8":{
         "name":"You",
         "des":"The You hive is all the way loyal. Viewers returned to the streaming service in droves for the third season of the Netflix psychological thriller, bringing in a total of 468 million viewers since the season dropped in October. Fans were curious to see how Joe Goldberg would adjust to his new life as a married man and father, and how his killer instincts would play out while married to Love, who is so much like him. As expected, chaos ensued in Season 3, giving fans exactly what they're looking for whenever they hit play on this show. The series is based on the books by Caroline Kepnes and with Season 4 already on the horizon, it'll be interesting to see how many more fans commit to spending even more time in front of their TVs to see what Goldberg is up to next. ",
         "url":"https://images.complex.com/complex/images/c_crop,h_1558,w_2399,x_645,y_100/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/zfmjvy3maazd82rce15i/you-season-3?fimg-client",
         "link":"https://en.wikipedia.org/wiki/You_(TV_series)"
     },
 
-    "name9":{
+    "main9":{
         "name":"Cobra Kai",
         "des":"COBRA KAI takes place over 30 years after the events of the 1984 All Valley Karate Tournament with the continuation of the inescapable conflict between Daniel LaRusso (Ralph Macchio) and Johnny Lawrence (William Zabka). Season 4 finds the Miyagi-Do and Eagle Fang dojos joining forces to take down Cobra Kai at the All Valley Under 18 Karate Tournament... and whoever loses must hang up their gi. As Samantha and Miguel try to maintain the dojo alliance and Robby goes all in at Cobra Kai, the fate of the Valley has never been more precarious. What tricks does Kreese have up his sleeve? Can Daniel and Johnny bury their decades-long hatchet to defeat Kreese? Or will Cobra Kai become the face of karate in the valley?",
         "url":"",
         "link":"https://en.wikipedia.org/wiki/Cobra_Kai"
     },
 
-    "name10":{
+    "main10":{
         "name":"Chosen",
         "des":"Emma has always felt different from anyone else in Middelbo - a small Danish town that became world famous when it was said that a meteor entered the atmosphere and crashed into it 17 years earlier. Now, Middelbo is no longer what it has been, and the question is whether it has ever been what it pretends to be at all? When Emma accidentally discovers that the whole story of the meteor is a lie, a dangerous and improbable truth about the sleepy town reveals itself - something that is far more perilous and incredible than she could have ever imagined. Was it a meteor that hit the little town 17 years ago or was it something far more powerful? With this newly discovered realization Emma is forced to realize that she is on her own and that friends and society will not save her in a time of life where she needs them the most.",
         "url":"https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/01/chosen-netflix.jpeg",
