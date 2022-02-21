@@ -2,10 +2,10 @@
     "main1": {
         "name": "China",
         "des": {
-            "country_name": "China",
-            "population": 1439323776,
-            "ranking": 1,
-            "world_share": 18.46415423781907
+            "country_name: China,
+            population: 1439323776,
+            ranking: 1,
+            world_share: 18.46415423781907"
         },
         "url": "https://i.pinimg.com/736x/64/e7/2a/64e72a9dd5c722c808766879acfbf2bf.jpg",
         "link": "https://en.wikipedia.org/wiki/{names[i]}"
