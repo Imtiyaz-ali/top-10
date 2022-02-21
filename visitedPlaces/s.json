@@ -1,0 +1,62 @@
+{
+    "main1": {
+        "name": "Eiffel Tower",
+        "des": "The Eiffel Tower  is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.\n",
+        "url": "https://i.pinimg.com/736x/4d/c8/88/4dc88824986571d5ccec27a5ce8d6d1f.jpg",
+        "link": "https://en.wikipedia.org/wiki/Eiffel Tower"
+    },
+    "main2": {
+        "name": "Colosseum",
+        "des": "The Colosseum  is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age. Construction began under the emperor Vespasian  in 72[1] and was completed in 80 AD under his successor and heir, Titus .[2] Further modifications were made during the reign of Domitian .[3] The three emperors that were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre  by later classicists and archaeologists for its association with their family name .[citation needed]\n",
+        "url": "https://i.pinimg.com/736x/75/13/f8/7513f86c346ed3cba7eb314c98d3281d.jpg",
+        "link": "https://en.wikipedia.org/wiki/The Colosseum"
+    },
+    "main3": {
+        "name": "Statue of Liberty",
+        "des": "The Statue of Liberty  is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Fr\u00e9d\u00e9ric Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue was dedicated on October 28, 1886.\n",
+        "url": "https://i.pinimg.com/736x/15/45/f5/1545f5e3b66b6a612ec5bb0ca500e775.jpg",
+        "link": "https://en.wikipedia.org/wiki/Statue of Liberty"
+    },
+    "main4": {
+        "name": "Machu Picchu",
+        "des": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter  mountain ridge.[2][3] It is located in the Machupicchu District within Urubamba Province[4] above the Sacred Valley, which is 80 kilometers  northwest of Cuzco. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a tropical mountain climate.[5]\n",
+        "url": "https://i.pinimg.com/736x/24/09/ea/2409eae21654e3ccbe7e2e859fa28a25.jpg",
+        "link": "https://en.wikipedia.org/wiki/Machu Picchu"
+    },
+    "main5": {
+        "name": "Taj Mahal",
+        "des": "The Taj Mahal ,[5] is an ivory-white marble mausoleum on the right bank of the river Yamuna  in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan  to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare  complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.\n",
+        "url": "https://i.pinimg.com/736x/58/b5/7c/58b57c72e506b1219d9bcd8d777b0819.jpg",
+        "link": "https://en.wikipedia.org/wiki/The Taj Mahal"
+    },
+    "main6": {
+        "name": "Giza pyramid complex",
+        "des": "The Giza pyramid complex, also called the Giza necropolis, is the site on the Giza Plateau in Greater Cairo, Egypt that includes the Great Pyramid of Giza, the Pyramid of Khafre, and the Pyramid of Menkaure, along with their associated pyramid complexes and the Great Sphinx of Giza. All were built during the Fourth Dynasty of the Old Kingdom of Ancient Egypt, between 2600 and 2500 BC. The site also includes several cemeteries and the remains of a workers village.\n",
+        "url": "https://i.pinimg.com/736x/78/33/01/783301060619f0b782ae627f278c31b4.jpg",
+        "link": "https://en.wikipedia.org/wiki/Pyramids of Giza"
+    },
+    "main7": {
+        "name": "Great Wall of China",
+        "des": "The Great Wall of China  is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century\u00a0BC,[4] with selective stretches later joined together by Qin Shi Huang , the first emperor of China. Little of the Qin wall remains.[5] Later on, many successive dynasties built and maintained multiple stretches of border walls. The best-known sections of the wall were built by the Ming dynasty .\n",
+        "url": "https://i.pinimg.com/736x/ef/6b/1e/ef6b1e464eb62177e0ad5e83154b1716.jpg",
+        "link": "https://en.wikipedia.org/wiki/Great Wall of China"
+    },
+    "main8": {
+        "name": "Angkor Wat",
+        "des": "Angkor Wat [2] is a temple complex in northwest Cambodia. A national symbol and sacred site of Cambodian Buddhism, the complex is a UNESCO World Heritage Site and a significant tourist destination.\n",
+        "url": "https://i.pinimg.com/736x/e8/9a/f7/e89af7c7aaced50c2c3600736056a430.jpg",
+        "link": "https://en.wikipedia.org/wiki/Angkor Wat"
+    },
+    "main9": {
+        "name": "Petra",
+        "des": "Petra , originally known to its inhabitants as Raqmu or Raq\u0113m\u014d[3][4] is a historic and archaeological city in southern Jordan. It is adjacent to the mountain of Jabal Al-Madbah, in a basin surrounded by mountains forming the eastern flank of the Arabah valley running from the Dead Sea to the Gulf of Aqaba.[5] The area around Petra has been inhabited from as early as 7000\u00a0BC,[6] and the Nabataeans might have settled in what would become the capital city of their kingdom as early as the 4th century BC.[7] Archaeological work has only discovered evidence of Nabataean presence dating back to the second century BC,[8] by which time Petra had become their capital.[6] The Nabataeans were nomadic Arabs who invested in Petra's proximity to the incense trade routes by establishing it as a major regional trading hub.[6][9]\n",
+        "url": "https://i.pinimg.com/736x/64/3e/e1/643ee11b47a2e5835bf72a099241a975.jpg",
+        "link": "https://en.wikipedia.org/wiki/Petra"
+    },
+    "main10": {
+        "name": "Grand Canyon",
+        "des": "The Grand Canyon  is a steep-sided canyon carved by the Colorado River in Arizona, United States. The Grand Canyon is 277 miles  long, up to 18 miles  wide and attains a depth of over a mile .[6]\n",
+        "url": "https://i.pinimg.com/736x/cf/b0/ec/cfb0ecf7fa414e8152a93c8e90281660.jpg",
+        "link": "https://en.wikipedia.org/wiki/Grand Canyon"
+    }
+}
