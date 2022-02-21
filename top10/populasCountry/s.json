@@ -1,0 +1,112 @@
+{
+    "main1": {
+        "name": "China",
+        "des": {
+            "country_name": "China",
+            "population": 1439323776,
+            "ranking": 1,
+            "world_share": 18.46415423781907
+        },
+        "url": "https://i.pinimg.com/736x/64/e7/2a/64e72a9dd5c722c808766879acfbf2bf.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    },
+    "main2": {
+        "name": "India",
+        "des": {
+            "country_name": "India",
+            "population": 1380004385,
+            "ranking": 2,
+            "world_share": 17.703184119086387
+        },
+        "url": "https://i.pinimg.com/736x/8d/07/e9/8d07e9ca8a2d19b6ef30af9948b407f1.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    },
+    "main3": {
+        "name": "United States",
+        "des": {
+            "country_name": "United States",
+            "population": 331002651,
+            "ranking": 3,
+            "world_share": 4.246219025281353
+        },
+        "url": "https://i.pinimg.com/736x/79/29/7d/79297df6a075425ee7a9dedc4816cea9.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    },
+    "main4": {
+        "name": "Indonesia",
+        "des": {
+            "country_name": "Indonesia",
+            "population": 273523615,
+            "ranking": 4,
+            "world_share": 3.5088576311031785
+        },
+        "url": "https://i.pinimg.com/736x/5a/e7/03/5ae703e821f5e20ec9e4e36dab6f6203.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    },
+    "main5": {
+        "name": "Pakistan",
+        "des": {
+            "country_name": "Pakistan",
+            "population": 220892340,
+            "ranking": 5,
+            "world_share": 2.833685028845637
+        },
+        "url": "https://i.pinimg.com/736x/2c/29/2b/2c292b412be3d4c978a859b67e974dee.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    },
+    "main6": {
+        "name": "Brazil",
+        "des": {
+            "country_name": "Brazil",
+            "population": 212559417,
+            "ranking": 6,
+            "world_share": 2.7267873466914097
+        },
+        "url": "https://i.pinimg.com/736x/37/28/9b/37289b016153fde29555e253b406db64.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    },
+    "main7": {
+        "name": "Nigeria",
+        "des": {
+            "country_name": "Nigeria",
+            "population": 206139589,
+            "ranking": 7,
+            "world_share": 2.64443152352722
+        },
+        "url": "https://i.pinimg.com/736x/62/7a/d1/627ad10ef982c4be3a446cb4c1d4f9bd.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    },
+    "main8": {
+        "name": "Bangladesh",
+        "des": {
+            "country_name": "Bangladesh",
+            "population": 164689383,
+            "ranking": 8,
+            "world_share": 2.112693627207377
+        },
+        "url": "https://i.pinimg.com/736x/3d/58/10/3d5810cff6d3ce73b1837e4ee03ba16e.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    },
+    "main9": {
+        "name": "Russia",
+        "des": {
+            "country_name": "Russia",
+            "population": 145934462,
+            "ranking": 9,
+            "world_share": 1.8720988702552679
+        },
+        "url": "https://i.pinimg.com/736x/f3/0f/48/f30f487eaa44ef062f69a25565d56f5b.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    },
+    "main10": {
+        "name": "Mexico",
+        "des": {
+            "country_name": "Mexico",
+            "population": 128932753,
+            "ranking": 10,
+            "world_share": 1.6539949366462974
+        },
+        "url": "https://i.pinimg.com/736x/bb/52/39/bb52390b3a3d413ed93fa12975207016.jpg",
+        "link": "https://en.wikipedia.org/wiki/{names[i]}"
+    }
+}
